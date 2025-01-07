@@ -1,0 +1,37 @@
+{
+    "name": "com.elnfach.adui_toolkit",
+    "version": "0.1.0",
+    "displayName": "ADUI Toolkit",
+    "description": "Advanced ADUI Toolkit",
+    "unity": "6000.0",
+    "unityRelease": "32f1",
+    "documentationUrl": "",
+    "changelogUrl": "https://github.com/elnfach/ADUI-Toolkit/changelog.md",
+    "licensesUrl": "https://github.com/elnfach/ADUI-Toolkit/blob/master/LICENSE",
+    "keywords": [
+        "ADUI",
+        "ADUI Toolkit",
+        "adui",
+        "ui",
+        "UI",
+        "Toolkit",
+        "toolkit",
+        "Advanced UI",
+        "Advanced UI Toolkit"
+    ],
+    "author": {
+      "name": "elnfach",
+      "email": "",
+      "url": "https://github.com/elnfach"
+    },
+    "type": "tool",
+    "hideInEditor": false,
+    "samples": 
+  [
+      {
+          "displayName": "Samples",
+          "description": "",
+          "path": "Samples~/"
+      }
+  ]
+  }
