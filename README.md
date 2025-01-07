@@ -1,2 +1,2 @@
-# -ADUI-Toolkit
+# ADUI Toolkit
 Advanced UI Toolkit

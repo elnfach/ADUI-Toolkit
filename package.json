@@ -1,5 +1,5 @@
 {
-    "name": "com.elnfach.adui_toolkit",
+    "name": "com.elnfach.adui-toolkit",
     "version": "0.1.0",
     "displayName": "ADUI Toolkit",
     "description": "Advanced ADUI Toolkit",
@@ -21,7 +21,6 @@
     ],
     "author": {
       "name": "elnfach",
-      "email": "",
       "url": "https://github.com/elnfach"
     },
     "type": "tool",
